@@ -1,1 +1,0 @@
-|Backup-ID |Creation_Date |Backup_Name |Program_Used |Backup_Type_From_To |Frequency |Retention_Policy |Cron_Schedule
